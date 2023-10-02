@@ -1,3 +1,5 @@
+UPDATE: The project has been moved to here: https://github.com/Chaosminecraft/Text-converter
+
 # Custom-Encoder
 The Project just started out of fun and is an hobby and i kinda learn with that Project at once,
 so please note if an AV says that the File is something bad, it is maybe that the file isn't that known,
